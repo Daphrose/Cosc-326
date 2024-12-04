@@ -1,0 +1,41 @@
+#paragraph-one{
+    border:1px solid black;
+    padding-left: 10px;
+}
+table{
+    margin-top: 20px;
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 80px;
+    
+ 
+}
+th, td{
+    border: 1px solid black;
+    
+}
+.row2{
+    background-color: black;
+    color: #ffff;
+}
+.row3{
+    text-align: center;
+}
+
+#paragraph-two{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+label{
+    display:flex;
+    margin:0px 0px 8px;
+    align-items:center;
+  }
+ .box{
+    margin-left: 3px;
+ }
+ .image{
+  height: 30px;
+  width: 40px;
+ }
+ 
